@@ -1,0 +1,239 @@
+(footprint "IFLR-4031GC-01-8x10"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1 -5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a0bc5440-6636-49dc-b508-16740f4bc239")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "220nH"
+		(at 0.1 4.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a3b2ce9c-7193-4cf7-8187-61170da591de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a9dc27c-9eaa-404e-8d50-9bfaabeae8c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2d71c13-a87c-4776-98a8-9fd7c296fb14")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Distributor" "D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5dba21f4-d8d9-4b50-86ab-72f6d6dbc2bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OrderNr" "283-FP1008R5-R220-RCT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "893d65d9-0d46-4e5e-920a-e09cdabf1c15")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTNO" "FP1008R5-R220-R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08a8e1d9-7c67-482d-b328-f821f631267f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer " "Eaton"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97b42f54-6f16-4a8e-900b-6be4b907202e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.2 -4)
+		(end -5.2 4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8d11c964-24cb-4568-82ed-a474b32ce7e1")
+	)
+	(fp_line
+		(start -5.2 -4)
+		(end 5.2 -4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0c964828-a701-4764-b13a-f93a59bf61c2")
+	)
+	(fp_line
+		(start -5.2 4)
+		(end 5.2 4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "06bca9ad-4d19-41b8-aa15-7b80eb6d746a")
+	)
+	(fp_line
+		(start 5.2 -4)
+		(end 5.2 4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "63f89805-d15c-498b-87b6-103672f5c748")
+	)
+	(fp_rect
+		(start -5.8 -4.5)
+		(end 5.8 4.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "49d47b53-b5ce-4e2b-ad70-83404d0da547")
+	)
+	(fp_line
+		(start -5.2 -4)
+		(end -5.2 4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "a2d86ea7-f31a-4881-9598-4cbf36597a7b")
+	)
+	(fp_line
+		(start -5.2 -4)
+		(end 5.2 -4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ee006af1-f4f3-4339-842a-cb264d970cd3")
+	)
+	(fp_line
+		(start -5.2 4)
+		(end 5.2 4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "cdc67f7b-8564-4868-afcf-8e737546eeb0")
+	)
+	(fp_line
+		(start 5.2 -4)
+		(end 5.2 4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6fdf8442-396d-4c38-832f-02603f0bbdc9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.1 6.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5339aa21-bf59-4e23-bbfb-2254fb646395")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.805 0)
+		(size 3.3 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "038a4500-affc-44aa-86a4-1b4978277f62")
+	)
+	(pad "2" smd rect
+		(at 3.805 0)
+		(size 3.3 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "3ef08550-456a-4efd-b5da-90f5d4e85680")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/FP1006V2-R.STEP"
+		(offset
+			(xyz 3 -7.5 10)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 180 0)
+		)
+	)
+)

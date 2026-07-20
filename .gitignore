@@ -1,0 +1,35 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# KiCad local state, locks, autosaves, and backups
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.lck
+*.sch-bak
+*.tmp
+*~
+_autosave-*
+*-backups/
+*-save.pro
+*-save.kicad_pcb
+#auto_saved_files#/
+auto_saved_files/
+fp-info-cache
+
+# Local editor history
+.history/
+
+# Intermediate design exports
+*.dsn
+*.net
+*.ses
+*.xml
+
+# Generated manufacturing packages
+*.zip
+manufacturing/
