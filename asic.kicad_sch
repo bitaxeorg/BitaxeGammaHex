@@ -12219,7 +12219,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 529.59 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -12399,7 +12399,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 342.9 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -12579,7 +12579,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 320.04 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -12838,7 +12838,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 208.28 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -13018,7 +13018,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 337.82 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -13421,7 +13421,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 303.53 308.61 90)
 			(hide yes)
 			(show_name no)
@@ -13757,7 +13757,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 490.22 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -13927,7 +13927,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 773.43 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -14094,7 +14094,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 756.92 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -14283,7 +14283,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 623.57 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -14547,7 +14547,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 471.17 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -14715,7 +14715,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 461.01 217.17 90)
 			(hide yes)
 			(show_name no)
@@ -14884,7 +14884,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 233.68 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -15064,7 +15064,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 337.82 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -15234,7 +15234,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 773.43 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -15480,7 +15480,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 297.18 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -15648,7 +15648,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 297.18 340.36 90)
 			(hide yes)
 			(show_name no)
@@ -15815,7 +15815,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 306.07 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -15996,7 +15996,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 60.96 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -16400,7 +16400,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 524.51 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16657,7 +16657,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 223.52 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -16905,7 +16905,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 739.14 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -17085,7 +17085,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 553.72 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -17254,7 +17254,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 389.89 283.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17433,7 +17433,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 533.4 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -17613,7 +17613,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 476.25 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -17951,7 +17951,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 74.93 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -18131,7 +18131,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 318.77 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -18298,7 +18298,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 440.69 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -18478,7 +18478,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 359.41 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -18645,7 +18645,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 756.92 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -19069,7 +19069,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 477.52 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -19238,7 +19238,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 229.87 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -19418,7 +19418,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 265.43 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -19598,7 +19598,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 344.17 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -19934,7 +19934,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 212.09 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -20114,7 +20114,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 341.63 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -20282,7 +20282,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 424.18 340.36 90)
 			(hide yes)
 			(show_name no)
@@ -20452,7 +20452,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 703.58 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -20619,7 +20619,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 687.07 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -20786,7 +20786,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 368.3 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -21056,7 +21056,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 259.08 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21314,7 +21314,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 97.79 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -21619,7 +21619,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 200.66 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -21799,7 +21799,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 538.48 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -22036,7 +22036,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 237.49 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -22317,7 +22317,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 467.36 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22497,7 +22497,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 212.09 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22756,7 +22756,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 515.62 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -23094,7 +23094,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 400.05 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -23274,7 +23274,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 476.25 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -23443,7 +23443,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 486.41 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -23623,7 +23623,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 270.51 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -23803,7 +23803,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 464.82 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -23972,7 +23972,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 243.84 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24141,7 +24141,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 525.78 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24308,7 +24308,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 190.5 347.98 90)
 			(hide yes)
 			(show_name no)
@@ -24554,7 +24554,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 171.45 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -24723,7 +24723,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 669.29 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -24903,7 +24903,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 342.9 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -25038,7 +25038,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 605.79 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -25294,7 +25294,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 687.07 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -25483,7 +25483,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 538.48 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -25663,7 +25663,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 478.79 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -25843,7 +25843,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 455.93 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -26011,7 +26011,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 189.23 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -26169,7 +26169,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 504.19 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -26450,7 +26450,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 271.78 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -26619,7 +26619,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 387.35 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26788,7 +26788,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 703.58 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -27113,7 +27113,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 193.04 334.01 90)
 			(hide yes)
 			(show_name no)
@@ -27361,7 +27361,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 219.71 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -27529,7 +27529,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 424.18 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -27687,7 +27687,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 504.19 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -27957,7 +27957,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 500.38 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -28137,7 +28137,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 330.2 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -28306,7 +28306,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 485.14 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -28486,7 +28486,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 355.6 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -28666,7 +28666,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 393.7 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -28902,7 +28902,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 237.49 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -29171,7 +29171,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 560.07 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -29351,7 +29351,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 228.6 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -29531,7 +29531,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 213.36 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -29777,7 +29777,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 499.11 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -29957,7 +29957,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 542.29 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -30214,7 +30214,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 167.64 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -30400,7 +30400,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 495.3 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -30580,7 +30580,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 129.54 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -30749,7 +30749,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 669.29 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -30929,7 +30929,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 532.13 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -31109,7 +31109,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 453.39 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -31276,7 +31276,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 431.8 308.61 90)
 			(hide yes)
 			(show_name no)
@@ -31613,7 +31613,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 186.69 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -31793,7 +31793,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 392.43 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -31973,7 +31973,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 400.05 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -32153,7 +32153,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 189.23 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -32333,7 +32333,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 553.72 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -32580,7 +32580,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 739.14 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -32760,7 +32760,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 515.62 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -32940,7 +32940,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 471.17 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -33278,7 +33278,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 198.12 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -33447,7 +33447,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 347.98 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -33705,7 +33705,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 331.47 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -33874,7 +33874,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 361.95 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -34054,7 +34054,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 205.74 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34234,7 +34234,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 529.59 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -34403,7 +34403,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 269.24 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34570,7 +34570,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 321.31 354.33 90)
 			(hide yes)
 			(show_name no)
@@ -34738,7 +34738,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 318.77 217.17 90)
 			(hide yes)
 			(show_name no)
@@ -34918,7 +34918,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 209.55 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -35087,7 +35087,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 350.52 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -35267,7 +35267,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 542.29 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -35425,7 +35425,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 368.3 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -35706,7 +35706,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 264.16 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -35874,7 +35874,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 461.01 354.33 90)
 			(hide yes)
 			(show_name no)
@@ -36043,7 +36043,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 364.49 283.21 0)
 			(hide yes)
 			(show_name no)

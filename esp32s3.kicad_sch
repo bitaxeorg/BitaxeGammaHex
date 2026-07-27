@@ -5552,7 +5552,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 335.28 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -5821,7 +5821,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 384.81 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -6101,7 +6101,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 185.42 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -6444,7 +6444,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 141.605 141.605 0)
 			(hide yes)
 			(show_name no)
@@ -6713,7 +6713,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 141.605 127.635 0)
 			(hide yes)
 			(show_name no)
@@ -7058,7 +7058,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 248.92 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -7344,7 +7344,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 346.71 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -7749,7 +7749,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 326.39 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -7998,7 +7998,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 491.49 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8167,7 +8167,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 176.53 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -8876,7 +8876,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 492.76 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -9124,7 +9124,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 355.6 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -9292,7 +9292,7 @@
 				)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer" ""
 			(at 375.92 223.52 0)
 			(hide yes)
 			(show_name no)
