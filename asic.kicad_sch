@@ -12011,7 +12011,7 @@
 		(uuid "0a153de5-99ca-4e0f-90b4-e522ea4767d7")
 	)
 	(hierarchical_label "RESET"
-		(shape output)
+		(shape input)
 		(at 76.2 260.35 180)
 		(effects
 			(font
@@ -12208,18 +12208,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 529.59 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 529.59 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -12264,6 +12253,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 529.59 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 529.59 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -12388,18 +12388,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 342.9 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 342.9 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -12444,6 +12433,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 342.9 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 342.9 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -12568,18 +12568,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 320.04 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 320.04 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -12624,6 +12613,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 320.04 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 320.04 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -12827,18 +12827,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 208.28 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 208.28 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -12883,6 +12872,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 208.28 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 208.28 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -13007,18 +13007,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 337.82 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 337.82 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -13063,6 +13052,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 337.82 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 337.82 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -13221,6 +13221,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 245.11 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 245.11 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -13410,18 +13421,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 303.53 308.61 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 303.53 308.61 90)
 			(hide yes)
 			(show_name no)
@@ -13466,6 +13466,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 303.53 308.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 303.53 308.61 90)
 			(hide yes)
 			(show_name no)
@@ -13746,18 +13757,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 490.22 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 490.22 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -13802,6 +13802,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 490.22 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 490.22 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -13916,18 +13927,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 773.43 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 773.43 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -13972,6 +13972,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 773.43 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 773.43 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -14083,18 +14094,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 756.92 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 756.92 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -14139,6 +14139,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 756.92 320.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 756.92 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -14272,18 +14283,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 623.57 186.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 623.57 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -14328,6 +14328,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 623.57 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 623.57 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -14536,18 +14547,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 471.17 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 471.17 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -14592,6 +14592,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 471.17 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 471.17 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -14704,18 +14715,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 461.01 217.17 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 461.01 217.17 90)
 			(hide yes)
 			(show_name no)
@@ -14760,6 +14760,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 461.01 217.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 461.01 217.17 90)
 			(hide yes)
 			(show_name no)
@@ -14873,18 +14884,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 233.68 280.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 233.68 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -14929,6 +14929,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 233.68 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 233.68 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -15053,18 +15064,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 337.82 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 337.82 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -15109,6 +15109,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 337.82 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 337.82 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -15223,18 +15234,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 773.43 323.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 773.43 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -15279,6 +15279,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 773.43 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 773.43 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -15469,18 +15480,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 297.18 200.66 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 297.18 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -15525,6 +15525,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 297.18 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 297.18 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -15637,18 +15648,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 297.18 340.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 297.18 340.36 90)
 			(hide yes)
 			(show_name no)
@@ -15693,6 +15693,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 297.18 340.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 297.18 340.36 90)
 			(hide yes)
 			(show_name no)
@@ -15804,18 +15815,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 306.07 167.64 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 306.07 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -15860,6 +15860,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 306.07 167.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 306.07 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -15985,18 +15996,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 60.96 330.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 60.96 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -16041,6 +16041,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 60.96 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 60.96 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -16209,6 +16220,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 255.27 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8010d2b6-0145-489f-8f85-aeb791df8868")
 		)
@@ -16323,7 +16345,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 519.43 144.272 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16389,18 +16411,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 524.51 142.24 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 524.51 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16444,6 +16455,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 524.51 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 524.51 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -16646,18 +16668,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 223.52 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 223.52 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -16702,6 +16713,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 223.52 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 223.52 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -16894,18 +16916,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 739.14 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 739.14 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -16950,6 +16961,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 739.14 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 739.14 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -17074,18 +17096,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 553.72 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 553.72 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -17140,6 +17151,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 553.72 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "35e56cee-deff-4e3d-b75a-b3c69b5b6035")
 		)
@@ -17177,7 +17199,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 384.81 285.242 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17243,18 +17265,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 389.89 283.21 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 389.89 283.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17298,6 +17309,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 389.89 283.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 389.89 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -17422,18 +17444,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 533.4 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 533.4 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -17478,6 +17489,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 533.4 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 533.4 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -17602,18 +17624,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 476.25 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 476.25 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -17658,6 +17669,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 476.25 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 476.25 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -17826,6 +17848,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 511.81 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b9659d83-0886-4815-b535-f8466ba76c4c")
 		)
@@ -17940,18 +17973,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 74.93 347.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 74.93 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -17996,6 +18018,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 74.93 347.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 74.93 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -18120,18 +18153,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 318.77 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 318.77 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -18176,6 +18198,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 318.77 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 318.77 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -18287,18 +18320,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 440.69 167.64 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 440.69 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -18343,6 +18365,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 440.69 167.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 440.69 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -18467,18 +18500,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 359.41 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 359.41 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -18523,6 +18545,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 359.41 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 359.41 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -18634,18 +18667,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 756.92 187.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 756.92 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -18690,6 +18712,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 756.92 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 756.92 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -18944,6 +18977,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 373.38 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3b100889-7d72-47ec-8533-6b127fba22e9")
 		)
@@ -19058,18 +19102,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 477.52 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 477.52 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -19114,6 +19147,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 477.52 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 477.52 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -19227,18 +19271,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 229.87 142.24 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 229.87 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -19283,6 +19316,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 229.87 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 229.87 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -19407,18 +19451,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 265.43 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 265.43 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -19463,6 +19496,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 265.43 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 265.43 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -19587,18 +19631,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 344.17 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 344.17 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -19643,6 +19676,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 344.17 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 344.17 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -19923,18 +19967,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 212.09 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 212.09 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -19979,6 +20012,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 212.09 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 212.09 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -20103,18 +20147,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 341.63 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 341.63 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -20159,6 +20192,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 341.63 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 341.63 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -20271,18 +20315,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 424.18 340.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 424.18 340.36 90)
 			(hide yes)
 			(show_name no)
@@ -20327,6 +20360,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 424.18 340.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 424.18 340.36 90)
 			(hide yes)
 			(show_name no)
@@ -20441,18 +20485,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 703.58 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 703.58 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -20497,6 +20530,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 703.58 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 703.58 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -20608,18 +20652,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 687.07 187.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 687.07 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -20664,6 +20697,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 687.07 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 687.07 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -20775,18 +20819,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 368.3 331.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 368.3 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -20842,6 +20875,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 368.3 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 368.3 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -20979,7 +21023,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 254 282.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21045,18 +21089,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 259.08 280.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 259.08 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21100,6 +21133,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 259.08 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 259.08 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -21303,18 +21347,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 97.79 332.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 97.79 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -21359,6 +21392,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 97.79 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 97.79 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -21608,18 +21652,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 200.66 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 200.66 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -21664,6 +21697,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 200.66 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 200.66 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -21788,18 +21832,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 538.48 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 538.48 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -21844,6 +21877,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 538.48 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 538.48 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -22025,18 +22069,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 237.49 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 237.49 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -22092,6 +22125,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 237.49 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 237.49 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -22306,18 +22350,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 467.36 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 467.36 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22362,6 +22395,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 467.36 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 467.36 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22486,18 +22530,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 212.09 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 212.09 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22542,6 +22575,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 212.09 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 212.09 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22745,18 +22789,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 515.62 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 515.62 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22801,6 +22834,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 515.62 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 515.62 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -22969,6 +23013,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 375.92 283.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1ef42664-d55f-41e8-a8c2-00cde5c05672")
 		)
@@ -23083,18 +23138,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 400.05 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 400.05 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -23139,6 +23183,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 400.05 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 400.05 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -23263,18 +23318,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 476.25 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 476.25 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -23319,6 +23363,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 476.25 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 476.25 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -23432,18 +23487,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 486.41 280.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 486.41 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -23488,6 +23532,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 486.41 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 486.41 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -23612,18 +23667,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 270.51 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 270.51 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -23668,6 +23712,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 270.51 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 270.51 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -23792,18 +23847,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 464.82 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 464.82 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -23848,6 +23892,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 464.82 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 464.82 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -23961,18 +24016,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 243.84 142.24 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 243.84 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24027,6 +24071,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 243.84 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7c6750c4-005e-4aa5-b8a5-50b8c630499c")
 		)
@@ -24064,7 +24119,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 520.7 282.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24130,18 +24185,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 525.78 280.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 525.78 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24185,6 +24229,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 525.78 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 525.78 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -24297,18 +24352,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 190.5 347.98 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 190.5 347.98 90)
 			(hide yes)
 			(show_name no)
@@ -24353,6 +24397,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 190.5 347.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 190.5 347.98 90)
 			(hide yes)
 			(show_name no)
@@ -24543,18 +24598,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 171.45 167.64 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 171.45 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -24599,6 +24643,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 171.45 167.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 171.45 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -24712,18 +24767,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 669.29 323.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 669.29 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -24768,6 +24812,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 669.29 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 669.29 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -24892,18 +24947,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 342.9 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 342.9 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -24948,6 +24992,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 342.9 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 342.9 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -25038,7 +25093,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 605.79 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -25094,6 +25149,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 605.79 186.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 605.79 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -25283,18 +25349,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 687.07 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 687.07 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -25339,6 +25394,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 687.07 320.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 687.07 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -25472,18 +25538,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 538.48 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 538.48 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -25528,6 +25583,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 538.48 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 538.48 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -25652,18 +25718,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 478.79 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 478.79 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -25708,6 +25763,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 478.79 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 478.79 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -25832,18 +25898,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 455.93 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 455.93 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -25888,6 +25943,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 455.93 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 455.93 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -26000,18 +26066,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 189.23 208.28 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 189.23 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -26056,6 +26111,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 189.23 208.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 189.23 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -26158,18 +26224,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 504.19 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 504.19 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -26225,6 +26280,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 504.19 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 504.19 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -26439,18 +26505,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 271.78 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 271.78 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -26505,6 +26560,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 271.78 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1004fc1e-8059-45cc-9d3e-3ec371b83163")
 		)
@@ -26542,7 +26608,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 382.27 146.812 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26608,18 +26674,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 387.35 144.78 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 387.35 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26663,6 +26718,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 387.35 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 387.35 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -26777,18 +26843,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 703.58 323.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 703.58 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -26833,6 +26888,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 703.58 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 703.58 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -27102,18 +27168,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 193.04 334.01 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 193.04 334.01 90)
 			(hide yes)
 			(show_name no)
@@ -27158,6 +27213,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 193.04 334.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 193.04 334.01 90)
 			(hide yes)
 			(show_name no)
@@ -27350,18 +27416,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 219.71 280.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 219.71 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -27406,6 +27461,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 219.71 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 219.71 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -27518,18 +27584,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 424.18 200.66 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 424.18 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -27574,6 +27629,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 424.18 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 424.18 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -27676,18 +27742,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 504.19 331.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 504.19 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -27743,6 +27798,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 504.19 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 504.19 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -27946,18 +28012,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 500.38 280.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 500.38 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -28002,6 +28057,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 500.38 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 500.38 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -28126,18 +28192,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 330.2 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 330.2 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -28182,6 +28237,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 330.2 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 330.2 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -28295,18 +28361,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 485.14 142.24 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 485.14 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -28351,6 +28406,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 485.14 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 485.14 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -28475,18 +28541,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 355.6 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 355.6 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -28531,6 +28586,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 355.6 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 355.6 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -28655,18 +28721,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 393.7 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 393.7 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -28711,6 +28766,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 393.7 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 393.7 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -28891,18 +28957,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 237.49 331.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 237.49 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -28958,6 +29013,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 237.49 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 237.49 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -29160,18 +29226,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 560.07 208.28 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 560.07 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -29216,6 +29271,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 560.07 208.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 560.07 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -29340,18 +29406,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 228.6 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 228.6 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -29396,6 +29451,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 228.6 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 228.6 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -29520,18 +29586,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 213.36 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 213.36 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -29576,6 +29631,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 213.36 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 213.36 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -29766,18 +29832,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 499.11 142.24 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 499.11 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -29822,6 +29877,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 499.11 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 499.11 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -29946,18 +30012,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 542.29 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 542.29 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -30002,6 +30057,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 542.29 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 542.29 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -30203,18 +30269,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 167.64 331.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 167.64 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -30259,6 +30314,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 167.64 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 167.64 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -30389,18 +30455,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 495.3 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 495.3 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -30445,6 +30500,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 495.3 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 495.3 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -30569,18 +30635,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 129.54 330.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 129.54 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -30625,6 +30680,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 129.54 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 129.54 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -30738,18 +30804,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 669.29 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 669.29 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -30794,6 +30849,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 669.29 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 669.29 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -30918,18 +30984,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 532.13 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 532.13 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -30974,6 +31029,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 532.13 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 532.13 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -31098,18 +31164,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 453.39 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 453.39 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -31154,6 +31209,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 453.39 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 453.39 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -31265,18 +31331,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 431.8 308.61 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 431.8 308.61 90)
 			(hide yes)
 			(show_name no)
@@ -31321,6 +31376,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 431.8 308.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 431.8 308.61 90)
 			(hide yes)
 			(show_name no)
@@ -31602,18 +31668,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 186.69 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 186.69 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -31658,6 +31713,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 186.69 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 186.69 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -31782,18 +31848,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 392.43 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 392.43 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -31838,6 +31893,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 392.43 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 392.43 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -31962,18 +32028,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 400.05 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 400.05 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -32018,6 +32073,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 400.05 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 400.05 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -32142,18 +32208,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 189.23 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 189.23 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -32198,6 +32253,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 189.23 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 189.23 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -32322,18 +32388,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 553.72 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 553.72 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -32378,6 +32433,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 553.72 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 553.72 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -32569,18 +32635,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 739.14 323.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 739.14 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -32625,6 +32680,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 739.14 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 739.14 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -32749,18 +32815,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 515.62 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 515.62 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -32805,6 +32860,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 515.62 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 515.62 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -32929,18 +32995,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 471.17 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 471.17 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -32985,6 +33040,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 471.17 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 471.17 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -33153,6 +33219,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 510.54 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ac7fbe4e-3234-45b4-abc6-77053e1d0e5c")
 		)
@@ -33267,18 +33344,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 198.12 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 198.12 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -33323,6 +33389,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 198.12 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 198.12 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -33436,18 +33513,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 347.98 144.78 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 347.98 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -33492,6 +33558,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 347.98 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 347.98 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -33694,18 +33771,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 331.47 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 331.47 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -33750,6 +33816,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 331.47 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 331.47 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -33863,18 +33940,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 361.95 144.78 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 361.95 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -33919,6 +33985,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 361.95 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 361.95 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -34043,18 +34120,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 205.74 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 205.74 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34099,6 +34165,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 205.74 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 205.74 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34223,18 +34300,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 529.59 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 529.59 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -34289,6 +34355,17 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 529.59 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae951a59-358a-4a7b-adb7-bb512c7c9317")
 		)
@@ -34326,7 +34403,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 264.16 144.272 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34392,18 +34469,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 269.24 142.24 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 269.24 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34447,6 +34513,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 269.24 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 269.24 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -34559,18 +34636,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 321.31 354.33 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 321.31 354.33 90)
 			(hide yes)
 			(show_name no)
@@ -34615,6 +34681,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 321.31 354.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 321.31 354.33 90)
 			(hide yes)
 			(show_name no)
@@ -34727,18 +34804,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 318.77 217.17 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 318.77 217.17 90)
 			(hide yes)
 			(show_name no)
@@ -34783,6 +34849,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 318.77 217.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 318.77 217.17 90)
 			(hide yes)
 			(show_name no)
@@ -34907,18 +34984,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 209.55 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 209.55 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -34963,6 +35029,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 209.55 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 209.55 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -35076,18 +35153,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 350.52 283.21 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 350.52 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -35132,6 +35198,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 350.52 283.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 350.52 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -35256,18 +35333,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 542.29 304.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 542.29 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -35312,6 +35378,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 542.29 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 542.29 304.8 90)
 			(hide yes)
 			(show_name no)
@@ -35414,18 +35491,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 368.3 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 368.3 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -35481,6 +35547,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 368.3 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 368.3 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -35695,18 +35772,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 264.16 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 264.16 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -35751,6 +35817,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 264.16 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 264.16 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -35863,18 +35940,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 461.01 354.33 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 461.01 354.33 90)
 			(hide yes)
 			(show_name no)
@@ -35919,6 +35985,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 461.01 354.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 461.01 354.33 90)
 			(hide yes)
 			(show_name no)
@@ -36032,18 +36109,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 364.49 283.21 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "MANUFACTURER" ""
 			(at 364.49 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -36088,6 +36154,17 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 364.49 283.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 364.49 283.21 0)
 			(hide yes)
 			(show_name no)
